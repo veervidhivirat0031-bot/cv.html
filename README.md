@@ -144,12 +144,4 @@
 
 </body>
 </html>
-<section id="resume">
-  <h2>Resume</h2>
-  <p>
-    <a href="YOUR_RESUME_LINK_HERE" target="_blank" 
-       style="background:#2575fc; color:#fff; padding:12px 25px; 
-              border-radius:6px; text-decoration:none; font-weight:bold;">
-    </a>
-  </p>
-</section>
+
